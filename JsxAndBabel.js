@@ -15,6 +15,8 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
+
+
 //Below is three lines of code using pure js
 
 var h1 = document.createElement("h1");
